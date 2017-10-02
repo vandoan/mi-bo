@@ -12,10 +12,10 @@
     - hover state
     - trigger form validation upon click
   - insert current year before "Company" in footer
-  - transform a given screenshot into code: _/misc/webinar_screenshot.png_
+  - transform a given screenshot into code: <a href="https://github.com/vandoan/mi-bo/blob/master/misc/webinar_screenshot.png" target="_blank">_/misc/webinar_screenshot.png_</a>
   - additional details: 
     
-    - _/misc/original_README.md_
+    - <a href="https://github.com/vandoan/mi-bo/blob/master/misc/original_README.md" target="_blank">_/misc/original_README.md_</a>
     - the assignment's  <a href="https://github.com/MINDBODY-FEE/homework-marketing" target="_blank">__Git repository__</a>
 
 <br>
@@ -53,8 +53,8 @@ The page should look nearly identical
 
 ### Measurements &nbsp;&nbsp;&nbsp; :triangular_ruler:
 
-- check out the measurements file: 
-  - _/misc/measurements.png_
+- check out the <a href="https://github.com/vandoan/mi-bo/blob/master/misc/measurements.png" target="_blank" />__measurements file__</a> 
+  - <a href="https://github.com/vandoan/mi-bo/blob/master/misc/measurements.png" target="_blank" />_/misc/measurements.png_</a>
 - this holds all of the initial measurements:
  	<br>heights, widths, font colors, margin spacings, 
   <br>background colors, border colors, font heights, line heights
@@ -136,8 +136,8 @@ __CSS__:
 <br>
 
 ### Clear structure &nbsp; &nbsp; &nbsp; :musical_score:
-Break HTML into core components and sections. 
-<br>HTML components are similar to divs.
+Break HTML into core components and sections, 
+<br> lessons from React.js. Also, HTML components are similar to divs.
 <br>
 
     Structure
@@ -198,7 +198,7 @@ __Always__, test, if you can.
 <br>
 
 ### A Final Note on Grid
-I chose to work with the <a href="https://www.mozilla.org/en-US/developer/css-grid/" target="_blank">__grid property__</a> after recently discussing about it and out of curiousity (<a href="https://www.youtube.com/watch?time_continue=48&v=16enLRDbOyY" target="_blank">_really great __grid video__ here_</a>). It does make coding, especially with responsiveness, so much more straightforward. However, there is the factor that a page could look really off and, or broken on mobile or tablet view when the property isn't functioning properly, and those views are somewhat a large number (<a href="http://money.cnn.com/2014/02/28/technology/mobile/mobile-apps-internet/index.html" target="_blank">_CNN article: mobile passing desktop_</a>). In the end, I would choose to use it as a development tool but not have it on production, as the number of devices and browsers with inadequate versions to handle this newish css property are too great, in my opinion. Perhaps... I could create a fix for this with JS or one already exists.
+I chose to work with the <a href="https://www.mozilla.org/en-US/developer/css-grid/" target="_blank">__grid property__</a> after recently discussing about it and out of curiousity (<a href="https://www.youtube.com/watch?time_continue=48&v=16enLRDbOyY" target="_blank">_great __grid video__ here_</a>). It does make coding, especially with responsiveness, so much more straightforward. However, there is the factor that a page could look really off and, or broken on mobile or tablet view when the property isn't functioning properly, and those views are somewhat a large number (<a href="http://money.cnn.com/2014/02/28/technology/mobile/mobile-apps-internet/index.html" target="_blank">_CNN article: mobile passing desktop_</a>). In the end, I would choose to use it as a development tool but not have it on production, as the number of devices and browsers with inadequate versions to handle this newish css property are too great, in my opinion. Perhaps... I could create a fix for this with JS or one already exists.
 
 
 <br>
@@ -210,7 +210,7 @@ I hope that last section of the readme wasn't too lengthy or elaborate,
 <br> but I wanted to give you a strong sense to how I think, process, and code.  
 
 If you have any questions or comments, feel free
-<br> to shoot me an email, and I'll get back to you shortly. 
+<br> to shoot me <a href="mailto:cucumberandco@gmail.com?subject=Message%20from%20mi-bo%20project">__an email__</a>, and I'll get back to you shortly. 
 
 Cheers. &nbsp;&nbsp;&nbsp; :beers:
 
