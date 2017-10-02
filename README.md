@@ -27,6 +27,7 @@
   - CSS and HTML validators
   - surf ipsum from an <a href="http://dijiworkshop.com/surf_ipsum/" target="_blank">__old project__</a>
   - Chrome browser and inspector tool
+  - Firefox Markdown Viewer extension
   - Firefox browser and <a href="https://hacks.mozilla.org/2017/06/new-css-grid-layout-panel-in-firefox-nightly/" target="_blank">__grid layout tool__</a> (_magical!_)
   - <a href="https://necolas.github.io/normalize.css/" target="_blank">__Normalize CSS__</a> to reset default configurations</a>
   - Pixelmator for cutting images, counting pixels, and obtaining colors
@@ -45,6 +46,7 @@ The page should look nearly identical
 
   - Firefox 56.0 checks out
   - Safari requires version 10.3^
+  - iPhone Safari and Chrome passes
   - Chrome version 60.0.3^ for optimal resolution
   - minimum window width: 1278 pixels (larger than this Macbook screen, womp-womp)
   - for other browsers and versions, the grid CSS property is necessary, so check with <a href= "http://caniuse.com/#feat=css-grid" target="_blank">caniuse.com grid compatibility chart</a>
@@ -136,8 +138,8 @@ __CSS__:
 <br>
 
 ### Clear structure &nbsp; &nbsp; &nbsp; :musical_score:
-Break HTML into core components and sections, 
-<br> lessons from React.js. Also, HTML components are similar to divs.
+Break HTML into core components and sections
+<br> (_lessons from React.js_). Also, HTML components are similar to divs.
 <br>
 
     Structure
