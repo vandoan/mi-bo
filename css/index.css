@@ -340,7 +340,7 @@ footer section {
     	flex-direction: column;
     }
     .tps h2 {
-    	max-width: 380px;
+    	max-width: 360px;
     	margin: 8px auto 12px;
     }
 }
