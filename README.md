@@ -42,7 +42,7 @@ You can temporarily view
 
 ### Upon comparsion 
 The page should look nearly identical 
-<br> to the webinar screenshot. Some things to keep in mind.
+<br> to the webinar screenshot. Some things to keep in mind:
 
   - Firefox 56.0 checks out
   - Safari requires version 10.3^
