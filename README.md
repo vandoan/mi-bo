@@ -68,7 +68,7 @@ The page should look nearly identical
 <br> 
 
 ### Next time
-Things that I would do to make the process more efficient:
+Things that I would do to make the process better:
 
   - measure __everything__ first
   - more emojis, never __enough__ (_kidding, maybe_  :stuck_out_tongue: )
