@@ -71,7 +71,7 @@ The page should look nearly identical
 Things that I would do to make the process more efficient:
 
   - measure __everything__ first
-  - more emojis, never __enough__ (_kidding, maybe_  :stuck_out_tongue:)
+  - more emojis, never __enough__ (_kidding, maybe_  :stuck_out_tongue: )
   - have a __checklist__ of browsers, window views, and devices for final checks
   - use __px__ over em from the start (_prefer em, but px is better for fine-tuning_)
   - a secondary __BFM__ and __mouse__ (_BFG: Big Friggin Monitor, <a href="https://www.nytimes.com/2014/03/20/technology/personaltech/surviving-and-thriving-in-a-one-monitor-world.html" target="_blank">NYTimes: two monitors debate</a>_)
